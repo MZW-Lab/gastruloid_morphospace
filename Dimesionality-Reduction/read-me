@@ -1,0 +1,3 @@
+This folder contains the Python code to perform the t-SNE dimensionality reduction.
+A file named "Plate info 0923.csv" contains all of the cell-fate intensity data from the initial drug screen
+You will need to update the location of this file in the python code
