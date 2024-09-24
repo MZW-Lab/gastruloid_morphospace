@@ -1,0 +1,5 @@
+This folder contains the Python code and corresponding files for training a neural network to learn the tSNE embedding.
+high_dim.xlsx is an excel spreadsheet containing the initial binned intensity data for the 3 cell fate markers.
+low_dim.xlsx is an excel spreadsheet containing the corresponding tSNE embedding coordinates of each colony.
+combined_data4.xlsx is a spreadsheet that contains the intensity information of the simulated colonies.
+Simulated colonies is a folder that contains an excel spreadsheet for each simulated colony.
