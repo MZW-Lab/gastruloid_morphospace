@@ -1,0 +1,2 @@
+This folder contains the MATLAB code for analyzing gastruloids
+Each colony is represented as a 150 dimensional vector containing the bin-wise distributions of GATA3, BRA, and SOX2
