@@ -3,3 +3,4 @@ high_dim.xlsx is an excel spreadsheet containing the initial binned intensity da
 low_dim.xlsx is an excel spreadsheet containing the corresponding tSNE embedding coordinates of each colony.
 combined_data4.xlsx is a spreadsheet that contains the intensity information of the simulated colonies.
 Simulated colonies is a folder that contains an excel spreadsheet for each simulated colony.
+best_model.pth contains the NN parameters that were used to generate the figures in the manuscript
