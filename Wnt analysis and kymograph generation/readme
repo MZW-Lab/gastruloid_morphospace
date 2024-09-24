@@ -1,0 +1,4 @@
+Contains the python code for creating videos of non-membrane B-catenin from experimental .tiff images
+This code can also be used to generate kymographs on Wnt signaling
+All .tiff files are found in the folder "Images"
+Update the folder location in the Python code in order to successfully run the code
